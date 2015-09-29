@@ -1,5 +1,6 @@
 #!/bin/sh
 set -e
 
+ROOT=${PWD}
 cd mpv
-./waf build $@
+./waf build $@ --out="$ROOT"/mpv-build/

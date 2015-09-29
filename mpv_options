@@ -1,0 +1,1 @@
+--enable-libmpv-shared --disable-debug-build --disable-tv --disable-tv-v4l2 --disable-libv4l2 --disable-pvr --disable-audio-input --disable-audio-input --disable-rubberband --disable-libbluray --disable-dvdread --disable-cdda --disable-libsmbclient
